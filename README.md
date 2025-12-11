@@ -41,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
+[![LiamOgu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamOgu)](https://github.com/anuraghazra/github-readme-stats)
+
 ###
 
 <div align="left">
